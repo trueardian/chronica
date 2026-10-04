@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"go.naturallyfunny.dev/chronica"
+	"go.trueardian.com/chronica"
 )
 
 // NewStore returns a new, empty in-memory Store.

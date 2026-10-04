@@ -1,10 +1,10 @@
-module go.naturallyfunny.dev/chronica/postgres
+module go.trueardian.com/chronica/postgres
 
 go 1.25.0
 
 require (
 	github.com/jackc/pgx/v5 v5.9.2
-	go.naturallyfunny.dev/chronica v0.0.0
+	go.trueardian.com/chronica v0.0.0
 )
 
 require (
@@ -15,4 +15,4 @@ require (
 	golang.org/x/text v0.29.0 // indirect
 )
 
-replace go.naturallyfunny.dev/chronica => ..
+replace go.trueardian.com/chronica => ..

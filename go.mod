@@ -1,3 +1,3 @@
-module go.naturallyfunny.dev/chronica
+module go.trueardian.com/chronica
 
 go 1.25.0

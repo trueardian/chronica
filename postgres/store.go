@@ -11,7 +11,7 @@ import (
 
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgconn"
-	"go.naturallyfunny.dev/chronica"
+	"go.trueardian.com/chronica"
 )
 
 //go:embed migrations/*.sql

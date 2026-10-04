@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-`chronica` (module `go.naturallyfunny.dev/chronica`, Go 1.25) is a small dependency-free SDK for storing AI agent session history. A **Chronicum** is a session owned by a single owner; an **Actum** is one recorded action within it (message, thought, tool request/response). `Chronica`/`Acta` are just the Latin plurals — `[]Actum` is called "acta" throughout.
+`chronica` (module `go.trueardian.com/chronica`, Go 1.25) is a small dependency-free SDK for storing AI agent session history. A **Chronicum** is a session owned by a single owner; an **Actum** is one recorded action within it (message, thought, tool request/response). `Chronica`/`Acta` are just the Latin plurals — `[]Actum` is called "acta" throughout.
 
 ## Scope: this is an agent-layer SDK, not CRUD/UI
 

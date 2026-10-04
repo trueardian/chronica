@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/jackc/pgx/v5/pgxpool"
-	"go.naturallyfunny.dev/chronica"
-	"go.naturallyfunny.dev/chronica/postgres"
-	"go.naturallyfunny.dev/chronica/storeconformance"
+	"go.trueardian.com/chronica"
+	"go.trueardian.com/chronica/postgres"
+	"go.trueardian.com/chronica/storeconformance"
 )
 
 func TestConformance(t *testing.T) {

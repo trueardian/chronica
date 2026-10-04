@@ -47,7 +47,7 @@ The contract between them is **pure methods — parameters and return values, th
 ## Installation
 
 ```bash
-go get go.naturallyfunny.dev/chronica
+go get go.trueardian.com/chronica
 ```
 
 ## Quick Start
@@ -60,8 +60,8 @@ The SDK ships a thread-safe in-memory store for development and tests:
 
 ```go
 import (
-    "go.naturallyfunny.dev/chronica"
-    "go.naturallyfunny.dev/chronica/inmemory"
+    "go.trueardian.com/chronica"
+    "go.trueardian.com/chronica/inmemory"
 )
 
 s := inmemory.NewStore()

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"go.naturallyfunny.dev/chronica"
-	"go.naturallyfunny.dev/chronica/inmemory"
+	"go.trueardian.com/chronica"
+	"go.trueardian.com/chronica/inmemory"
 )
 
 func TestChronicarius_RecordActum_Validation(t *testing.T) {

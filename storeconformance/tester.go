@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"go.naturallyfunny.dev/chronica"
+	"go.trueardian.com/chronica"
 )
 
 // RunTest runs the base Store conformance suite.
