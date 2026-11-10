@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/jackc/pgx/v5 v5.9.2
-	go.trueardian.com/chronica v0.0.0
+	go.trueardian.com/chronica v0.1.0
 )
 
 require (
@@ -14,5 +14,3 @@ require (
 	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
 )
-
-replace go.trueardian.com/chronica => ..
